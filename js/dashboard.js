@@ -1,3 +1,4 @@
+console.log('Dashboard.js loaded');
 let allAssets = [];
 
 // Load assets on page load
